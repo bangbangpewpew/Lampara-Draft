@@ -1,0 +1,480 @@
+.dashboard-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);;
+}
+.dashboard-container01 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.dashboard-icon {
+  top: 36px;
+  fill: rgb(20, 12, 92);
+  left: 306px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.dashboard-text {
+  top: 42px;
+  left: 346px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+}
+.dashboard-textinput {
+  top: 38px;
+  left: 476px;
+  width: 333px;
+  height: 28px;
+  position: absolute;
+}
+.dashboard-icon02 {
+  top: 42px;
+  fill: rgb(20, 12, 92);
+  left: 787px;
+  width: 18px;
+  height: 19px;
+  position: absolute;
+}
+.dashboard-icon04 {
+  top: 40px;
+  fill: rgb(20, 12, 92);
+  left: 899px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.dashboard-image {
+  top: 38px;
+  left: 911px;
+  width: 13px;
+  height: 12px;
+  position: absolute;
+  object-fit: cover;
+}
+.dashboard-icon09 {
+  top: 39px;
+  fill: rgb(20, 12, 92);
+  left: 942px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.dashboard-image1 {
+  top: 38px;
+  left: 954px;
+  width: 13px;
+  height: 12px;
+  position: absolute;
+  object-fit: cover;
+}
+.dashboard-text01 {
+  left: 1040px;
+  color: rgb(20, 12, 92);
+  right: 0px;
+  bottom: -60px;
+  position: absolute;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+}
+.dashboard-icon11 {
+  top: 38px;
+  fill: #140c5c;
+  left: 1165px;
+  right: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.dashboard-container02 {
+  top: 112px;
+  flex: 0 0 auto;
+  left: 283px;
+  width: 939px;
+  height: 100px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.dashboard-text02 {
+  top: 15px;
+  left: 24px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.dashboard-text03 {
+  top: 45px;
+  left: 26px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 10px;
+}
+.dashboard-container03 {
+  flex: 0 0 auto;
+  width: auto;
+  height: 1004px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dashboard-container04 {
+  top: 2px;
+  left: -3px;
+  width: 265px;
+  height: 99.7%;
+  display: flex;
+  position: absolute;
+  box-shadow: -3px 5px 10px 0px #d4d4d4;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 0.43);
+  border-width: 0px;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);;
+  border-right-width: 0..5px;
+}
+.dashboard-text04 {
+  top: 158px;
+  left: 96px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 17px;
+}
+.dashboard-icon13 {
+  top: 212px;
+  fill: rgb(20, 12, 92);
+  left: 45px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.dashboard-icon15 {
+  top: 271px;
+  fill: rgb(20, 12, 92);
+  left: 45px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.dashboard-icon17 {
+  top: 327px;
+  fill: rgb(20, 12, 92);
+  left: 45px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.dashboard-icon22 {
+  top: 382px;
+  fill: rgb(20, 12, 92);
+  left: 45px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.dashboard-icon24 {
+  top: 436px;
+  fill: rgb(20, 12, 92);
+  left: 44px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.dashboard-icon26 {
+  top: 556px;
+  fill: rgb(20, 12, 92);
+  left: 43px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.dashboard-icon28 {
+  top: 626px;
+  fill: rgb(20, 12, 92);
+  left: 44px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.dashboard-navlink {
+  display: contents;
+}
+.dashboard-image2 {
+  top: 23px;
+  left: 28px;
+  width: 64px;
+  height: 68px;
+  position: absolute;
+  object-fit: cover;
+  text-decoration: none;
+}
+.dashboard-navlink1 {
+  display: contents;
+}
+.dashboard-text05 {
+  top: 43px;
+  left: 95px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  text-decoration: none;
+}
+.dashboard-navlink2 {
+  top: 66px;
+  left: 94px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 15px;
+  text-decoration: none;
+}
+.dashboard-navlink3 {
+  top: 216px;
+  left: 80px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 15px;
+  text-decoration: none;
+}
+.dashboard-button {
+  top: 275px;
+  left: 81px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 15px;
+}
+.dashboard-navlink4 {
+  top: 332px;
+  left: 87px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 15px;
+  text-decoration: none;
+}
+.dashboard-button1 {
+  top: 387px;
+  left: 81px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 15px;
+}
+.dashboard-navlink5 {
+  top: 439px;
+  left: 79px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 15px;
+  text-decoration: none;
+}
+.dashboard-button2 {
+  top: 561px;
+  left: 79px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 15px;
+}
+.dashboard-button3 {
+  top: 631px;
+  left: 78px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 15px;
+}
+.dashboard-container05 {
+  top: 174px;
+  left: 261px;
+  width: 861px;
+  height: 213px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dashboard-container06 {
+  top: 43px;
+  flex: 0 0 auto;
+  left: 47px;
+  width: 250px;
+  height: 100px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: var(--dl-color-gray-black);
+  border-style: solid;
+  border-width: 0.5px;
+  border-radius: 16px;
+}
+.dashboard-icon30 {
+  top: 11px;
+  fill: rgb(20, 12, 92);
+  left: 15px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.dashboard-text06 {
+  top: 16px;
+  left: 43px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 16px;
+}
+.dashboard-text07 {
+  top: 42px;
+  left: 70px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+.dashboard-text08 {
+  top: 70px;
+  left: 52px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 10px;
+}
+.dashboard-text09 {
+  top: 42px;
+  left: 168px;
+  color: var(--dl-color-success-300);
+  position: absolute;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+.dashboard-text10 {
+  top: 71px;
+  left: 156px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 10px;
+}
+.dashboard-container07 {
+  top: 45px;
+  flex: 0 0 auto;
+  left: 331px;
+  width: 250px;
+  height: 100px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: var(--dl-color-gray-black);
+  border-style: solid;
+  border-width: 0.5px;
+  border-radius: 16px;
+}
+.dashboard-icon32 {
+  top: 12px;
+  fill: rgb(20, 12, 92);
+  left: 20px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.dashboard-text11 {
+  top: 16px;
+  left: 49px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+}
+.dashboard-text12 {
+  top: 42px;
+  left: 116px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+.dashboard-text13 {
+  top: 71px;
+  left: 80px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 10px;
+}
+.dashboard-container08 {
+  top: 46px;
+  flex: 0 0 auto;
+  right: -3px;
+  width: 250px;
+  height: 100px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: var(--dl-color-gray-black);
+  border-style: solid;
+  border-width: 0.5px;
+  border-radius: 16px;
+}
+.dashboard-icon34 {
+  top: 14px;
+  fill: rgb(20, 12, 92);
+  left: 22px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.dashboard-text14 {
+  top: 18px;
+  left: 54px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 16px;
+}
+.dashboard-text15 {
+  top: 47px;
+  left: 117px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+.dashboard-text16 {
+  left: 106px;
+  color: rgb(20, 12, 92);
+  bottom: 12px;
+  position: absolute;
+  font-size: 10px;
+}
+.dashboard-container09 {
+  top: 306px;
+  right: 24px;
+  width: 924px;
+  height: 592px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.dashboard-container10 {
+  top: 93px;
+  left: 2px;
+  width: 913px;
+  height: 451px;
+  position: absolute;
+}
+.dashboard-container11 {
+  display: contents;
+}

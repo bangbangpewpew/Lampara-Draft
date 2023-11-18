@@ -1,0 +1,180 @@
+.calendar-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);;
+}
+.calendar-container1 {
+  flex: 0 0 auto;
+  width: auto;
+  height: 1004px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.calendar-container2 {
+  top: 2px;
+  left: -3px;
+  width: 265px;
+  height: 99.7%;
+  display: flex;
+  position: absolute;
+  box-shadow: -3px 5px 10px 0px #d4d4d4;
+  align-items: flex-start;
+  border-color: rgba(0, 0, 0, 0.43);
+  border-width: 0px;
+  flex-direction: column;
+  border-right-width: 0..5px;
+}
+.calendar-text {
+  top: 158px;
+  left: 96px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 17px;
+}
+.calendar-icon {
+  top: 212px;
+  fill: rgb(20, 12, 92);
+  left: 45px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.calendar-icon02 {
+  top: 271px;
+  fill: rgb(20, 12, 92);
+  left: 45px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.calendar-icon04 {
+  top: 327px;
+  fill: rgb(20, 12, 92);
+  left: 45px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.calendar-icon09 {
+  top: 382px;
+  fill: rgb(20, 12, 92);
+  left: 45px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.calendar-icon11 {
+  top: 436px;
+  fill: rgb(20, 12, 92);
+  left: 44px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.calendar-icon13 {
+  top: 556px;
+  fill: rgb(20, 12, 92);
+  left: 43px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.calendar-icon15 {
+  top: 626px;
+  fill: rgb(20, 12, 92);
+  left: 44px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.calendar-navlink {
+  display: contents;
+}
+.calendar-image {
+  top: 23px;
+  left: 28px;
+  width: 64px;
+  height: 68px;
+  position: absolute;
+  object-fit: cover;
+  text-decoration: none;
+}
+.calendar-navlink1 {
+  display: contents;
+}
+.calendar-text1 {
+  top: 43px;
+  left: 95px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  text-decoration: none;
+}
+.calendar-navlink2 {
+  top: 66px;
+  left: 94px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 15px;
+  text-decoration: none;
+}
+.calendar-navlink3 {
+  top: 216px;
+  left: 80px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 15px;
+  text-decoration: none;
+}
+.calendar-button {
+  top: 275px;
+  left: 81px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 15px;
+}
+.calendar-button1 {
+  top: 331px;
+  left: 81px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 15px;
+}
+.calendar-button2 {
+  top: 387px;
+  left: 81px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 15px;
+}
+.calendar-navlink4 {
+  top: 439px;
+  left: 79px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 15px;
+  text-decoration: none;
+}
+.calendar-button3 {
+  top: 561px;
+  left: 79px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 15px;
+}
+.calendar-button4 {
+  top: 631px;
+  left: 78px;
+  color: rgb(20, 12, 92);
+  position: absolute;
+  font-size: 15px;
+}
